@@ -15,4 +15,4 @@ class InvalidKindError(Exception):
     """Raised if the kind is invalid."""
     pass
 
-# Changes made for re-push
+# Changes made
